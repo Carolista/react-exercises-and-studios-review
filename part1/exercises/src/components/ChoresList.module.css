@@ -1,7 +1,15 @@
 .choresText {
-   color: black;
+  color: darkmagenta;
+  font-style: italic;
 }
 
 .choresHeading {
-   color: black;
+  color: rebeccapurple;
+  text-decoration: underline;
+}
+
+.choresList {
+  font-family: Cambria, serif;
+  text-align: left;
+  font-size: 1.1rem;
 }

@@ -1,7 +1,12 @@
 .movieText {
-   color: black;
+  color: #888;
 }
 
 .movieHeading {
-   color: black;
+  color: #bada55;
+}
+
+.movieList {
+  text-align: left;
+  font-size: 1.1rem;
 }
