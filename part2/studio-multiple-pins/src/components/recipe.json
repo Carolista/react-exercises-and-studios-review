@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Cast-Iron Steak",
+    "author": "Julia Moskin",
+    "website": "https://cooking.nytimes.com/recipes/1016334-cast-iron-steak/",
+    "recipeImage": "https://static01.nyt.com/images/2014/05/12/multimedia/recipelab-steak/recipelab-steak-articleLarge-v2.jpg",
+    "authorImage": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Pulitzer2018-julia-moskin-20180530-wp.jpg",
+    "ingredients": [
+      "coarse salt",
+      "boneless beef steaks",
+      "black pepper"
+    ]
+  },
+  {
+    "name": "Béarnaise Sauce",
+    "author": "Sam Sifton",
+    "website": "https://cooking.nytimes.com/recipes/1017389-bearnaise-sauce",
+    "recipeImage": "https://static01.nyt.com/images/2015/05/10/magazine/10eat/10mag-10eat-t_CA0-articleLarge.jpg",
+    "authorImage": "https://nytco-assets.nytimes.com/2020/03/Sam-Sifton-3.jpg",
+    "ingredients": [
+      "white wine vinegar",
+      "shallot",
+      "freshly-cracked black pepper",
+      "tarragon leaves",
+      "egg yolks",
+      "kosher salt",
+      "lemon juice"
+    ]
+  }
+]
