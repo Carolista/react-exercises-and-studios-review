@@ -4,7 +4,7 @@ import "./styling.css";
 function RecipeImage() {
    return (
     <div>
-      <img className="recipeImage" src={recipedata[0].recipeImage} />
+      <img className="recipeImage" src={recipedata[0].recipeImage} alt={recipedata[0].name} />
     </div>
    );
  }

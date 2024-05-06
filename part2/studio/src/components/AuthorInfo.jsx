@@ -5,7 +5,7 @@ function AuthorInfo() {
 
   const recipeAuthor = <div>{recipedata[0].author}</div>;
   
-  const recipeAuthorImage = <img className="authorImage" src={recipedata[0].authorImage} />;
+  const recipeAuthorImage = <img className="authorImage" src={recipedata[0].authorImage} alt={recipedata[0].author} />;
   
   let url = recipedata[0].website;
   const recipeWebsite = <a href={url}>{url}</a>;

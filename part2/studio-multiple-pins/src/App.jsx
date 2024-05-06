@@ -14,7 +14,7 @@ export default function App() {
   const pinsJSX = recipedata.map((recipe, index) => {
     return (
       <div key={index}>
-        <RecipeImage recipeImage={recipe.recipeImage} />
+        <RecipeImage recipeImage={recipe.recipeImage} name={recipe.name} />
         <RecipeName name={recipe.name} />
         <RateARecipe rating={4} />
         <Button saveButton={true} />

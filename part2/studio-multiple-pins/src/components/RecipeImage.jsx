@@ -1,9 +1,9 @@
 import "./styling.css";
 
-function RecipeImage({ recipeImage }) {
+function RecipeImage({ recipeImage, name }) {
    return (
     <div>
-      <img className="recipeImage" src={recipeImage} />
+      <img className="recipeImage" src={recipeImage} alt={name} />
     </div>
    );
  }

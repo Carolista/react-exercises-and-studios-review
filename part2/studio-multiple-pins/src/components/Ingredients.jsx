@@ -7,7 +7,9 @@ function IngredientList({ ingredients }) {
   return (
     <div>
       <h3>Ingredients</h3>
-      {ingredientsJSX}
+      <ul>
+        {ingredientsJSX}
+      </ul>
     </div>
   );
 }
